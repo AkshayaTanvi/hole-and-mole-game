@@ -42,8 +42,5 @@ Future Improvements
 - Timer-based game rounds
 - Mobile responsiveness
 
- Author
-
-Created with 💚 by Akshaya Tanvi
 
 
